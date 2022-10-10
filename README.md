@@ -3,3 +3,8 @@
 ![IMG_20221010_164853-01 jpeg](https://user-images.githubusercontent.com/66905164/194865041-7841a7f3-95d2-47d3-b9fb-6aacd66cfae9.jpg)
 
 ![Screenshot 2022-10-10 000046](https://user-images.githubusercontent.com/66905164/194805425-e80a9bf9-ecdf-4d3f-8e8b-b5db249e7a8e.png)
+
+
+Reference :
+1. https://arxiv.org/abs/1903.12296
+2. https://github.com/Ha0Tang/AttentionGAN
